@@ -37,7 +37,7 @@ Domain.
 
 To install Ajaxterm issue the following commands:
 
-    wget http://antony.lesuisse.org/ajaxterm/files/Ajaxterm-0.10.tar.gz
+    wget http://antony.lesuisse.org/software/ajaxterm/files/Ajaxterm-0.10.tar.gz
     tar zxvf Ajaxterm-0.10.tar.gz
     cd Ajaxterm-0.10
     ./ajaxterm.py
